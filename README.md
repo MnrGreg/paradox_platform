@@ -6,3 +6,6 @@ This is my initial release of a paradox platform.  I have tested on my Paradox M
 The code is based on Tertiush Python scripts, as well as several sample homebridge accessories/platforms I could find.
 
 My initial attempt used Python script based on Tertiush code and works well.  I ported the scripts to Node for this release and still needs some work.
+
+## Issues
+Password must not be more than 8 characters
